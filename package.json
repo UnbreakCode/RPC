@@ -1,6 +1,6 @@
 {
   "name": "discord-rpc",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A simple RPC client for Discord",
   "keywords": [
     "discord",
@@ -33,7 +33,7 @@
     "ws": "^7.3.1"
   },
   "optionalDependencies": {
-    "register-scheme": "github:devsnek/node-register-scheme"
+    "register-scheme": "github:samuelmaddock/node-register-scheme"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
