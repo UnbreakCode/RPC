@@ -33,7 +33,7 @@
     "ws": "^7.3.1"
   },
   "optionalDependencies": {
-    "register-scheme": "github:samuelmaddock/node-register-scheme"
+    "register-scheme": "github:ciderapp/node-register-scheme"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
